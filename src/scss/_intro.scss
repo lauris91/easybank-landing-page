@@ -20,7 +20,6 @@
     flex-direction: column;
     width: 50%;
     padding-right: 8rem;
-    flex: 1;
 
     @include responsive-size-down(tablet) {
       padding-right: 4rem;
